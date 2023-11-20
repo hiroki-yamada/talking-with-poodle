@@ -10,3 +10,5 @@ OpenAIのChatGPTとWhisperを使用してプードルと会話します.
 - 発話記録時に画面が一瞬固まります。
 
 発話開始時にAボタン、終了時にXボタンを押してください。
+
+![Unity Editor](./images/poodle.png)
