@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TalkingWithPoodle.unity
+    path: Assets/Scenes/TalkingWithPoodle.unity
     guid: a67aa427682f922458d750e42edaf26a
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 94ec2a16f0d636d49bc8a3cc6665b050, type: 2}
